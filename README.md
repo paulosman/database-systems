@@ -79,3 +79,8 @@ This is a totally incomplete list of people doing interesting work in databases 
 * [Database System Concepts - Silberschatz, Korth, & Sudarshan](https://www.db-book.com/)
 * [Readings in Database Systems](http://www.redbook.io/)
 * [Principles of Distributed Database Systems - Özsu & Valduriez](https://cs.uwaterloo.ca/~ddbook/)
+
+## Testing
+
+* [Jepsen](https://jepsen.io/)
+* [Hermitage](https://github.com/ept/hermitage)
