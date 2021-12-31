@@ -6,7 +6,7 @@ This repo contains a list of resources that are hopefully useful for people who 
 
 ## Courses
 
-The [CMU Database Group](https://db.cs.cmu.edu/) have put video lectures and other resources from two of their courses online. They've even provided Gradescope access for non-CMU students so that you can submit assignments and have them assessed by the autograder.
+The [CMU Database Group](https://db.cs.cmu.edu/) have put video lectures and other resources from two of their courses online. They've even provided Gradescope access for non-CMU students so that you can submit assignments and have them assessed by the autograder (although this [issue](https://github.com/cmu-db/bustub/issues/207) is currently preventing it from working for some people).
 
 ### CMU 15-445/645 - Introduction to Database Systems
 
