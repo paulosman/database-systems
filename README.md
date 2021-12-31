@@ -69,6 +69,7 @@ This is a totally incomplete list of people doing interesting work in databases 
 ## Books
 
 * [Designing Data-Intensive Applications - Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+  * [Solutions](https://webpages.charlotte.edu/mirsad/ITIS%205160/Solution_Manual_ITIS_5160.pdf)
 * [Database Management Systems - Ramakrishnan & Gehrke](http://pages.cs.wisc.edu/~dbbook/)
 * [Database System Concepts - Silberschatz, Korth, & Sudarshan](https://www.db-book.com/)
 * [Readings in Database Systems](http://www.redbook.io/)
