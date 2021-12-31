@@ -48,6 +48,7 @@ MIT has a course on Database Systems available on OpenCourseWare. There's not mu
 
 ### Overviews
 
+* [Architecture of a Database System](http://komar.in/files/architecture-of-a-database-system-2007.pdf)
 * [The Design and Implementation of Modern Column-Oriented Database Systems](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf)
 
 ### Other
