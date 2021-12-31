@@ -50,6 +50,10 @@ MIT has a course on Database Systems available on OpenCourseWare. There's not mu
 
 * [The Design and Implementation of Modern Column-Oriented Database Systems](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf)
 
+### Other
+
+* [Query Execution in Column-Oriented Database Systems](https://www.cs.umd.edu/~abadi/papers/abadiphd.pdf)
+
 ## People
 
 This is a totally incomplete list of people doing interesting work in databases and adjacent areas. 
@@ -74,4 +78,3 @@ This is a totally incomplete list of people doing interesting work in databases 
 * [Database System Concepts - Silberschatz, Korth, & Sudarshan](https://www.db-book.com/)
 * [Readings in Database Systems](http://www.redbook.io/)
 * [Principles of Distributed Database Systems - Özsu & Valduriez](https://cs.uwaterloo.ca/~ddbook/)
-* 
