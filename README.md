@@ -22,7 +22,7 @@ This course covers more advanced topics in database system internals, including 
 
 ### MIT 6.830 / 6.814 - Database Systems
 
-MIT has a course on Database Systems available on OpenCourseWare. There's not much there, but there is lecture notes that following readings from the famous [Red Book](http://www.redbook.io/).
+MIT has a course on Database Systems available on OpenCourseWare. There's not much there, but there are lecture notes that follow readings from the famous [Red Book](http://www.redbook.io/).
 
 * [Course Website - Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm)
 
