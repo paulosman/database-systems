@@ -26,6 +26,12 @@ MIT has a course on Database Systems available on OpenCourseWare. There's not mu
 
 * [Course Website - Fall 2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/index.htm)
 
+### Cornell - CS 4320
+
+Prof. Immanuel Trummer has put a bunch of great lectures online. These are especially useful if you're reading Database Management Systems by Ramakrishnan et al. 
+
+* [Video Lectures](http://www.databaselectures.com/)
+
 ## Misc Resources
 
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) - This project walks through creating a SQLite clone step by step.
