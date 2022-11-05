@@ -1,13 +1,13 @@
 # Big Data Reading List
 
 * [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-* [MapReduce: Simplified Data Processing on Large Clusters]([https://dl.acm.org/doi/abs/10.1145/1327452.1327492](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf))
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [MapReduce: A major step backwards](https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html)
 * [From Google File System to Omega: A Decade of Advancement in Big Data Management at Google](https://ieeexplore.ieee.org/abstract/document/7184888)
 * [Bigtable: A Distributed Storage System for Structured Data](https://dl.acm.org/doi/abs/10.1145/1365815.1365816)
 * [Spark - Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 * [The Hadoop Distributed File System](https://ieeexplore.ieee.org/abstract/document/5496972)
-* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://ieeexplore.ieee.org/abstract/document/5496972](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
+* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
 * [Big Data: A Survey](https://link.springer.com/article/10.1007/s11036-013-0489-0)
 * [Cassandra: a decentralized structured storage system](https://dl.acm.org/doi/abs/10.1145/1773912.1773922)
 * [Data-intensive applications, challenges, techniques and technologies: A survey on Big Data](https://www.sciencedirect.com/science/article/abs/pii/S0020025514000346)
