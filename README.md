@@ -61,6 +61,10 @@ Prof. Immanuel Trummer has put a bunch of great lectures online. These are espec
 
 * [Query Execution in Column-Oriented Database Systems](https://www.cs.umd.edu/~abadi/papers/abadiphd.pdf)
 
+### Big Data Reading List
+
+* [Reading List](./big-data.md)
+
 ## People
 
 This is a totally incomplete list of people doing interesting work in databases and adjacent areas. 
