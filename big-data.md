@@ -18,3 +18,4 @@
 * [The impact of columnar file formats on SQL-on-hadoop engine performance: A study on ORC and Parquet](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5523)
 * [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/abadi)
 * [Photon: A Fast Query Engine for Lakehouse Systems](https://cs.stanford.edu/~matei/papers/2022/sigmod_photon.pdf)
+* [Apache Spark as a Compiler: Joining a Billion Rows Per Second on a Laptop](https://www.databricks.com/blog/2016/05/23/apache-spark-as-a-compiler-joining-a-billion-rows-per-second-on-a-laptop.html)
